@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-# Name:D Aadhithya
-# Reg No: 21222222001
+# Name:vishnu vardhan S
+# Reg No: 212221220059
 
 ## AIM:
 
